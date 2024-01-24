@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently working on getting my law and business degree
 
 <!--
 **aakloc/aakloc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
